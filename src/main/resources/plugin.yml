@@ -1,0 +1,6 @@
+name: ExamplePlugin
+version: '${project.version}'
+main: github.ton.exampleplugin.ExamplePlugin
+api-version: 1.15
+author: Ton
+
